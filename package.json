@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "langchain": "^0.0.132"
+    "langchain": "^0.0.132",
+    "pdf-parse": "^1.1.1",
+    "redis": "^4.6.7"
   }
 }
