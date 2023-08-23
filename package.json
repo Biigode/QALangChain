@@ -1,0 +1,14 @@
+{
+  "name": "qalangchain",
+  "version": "1.0.0",
+  "description": "```  Este projeto tem como objetivo mostrar como realizar embedding utilizando a OpenAI com langchain. ``` ## Como rodar esse projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.132"
+  }
+}
